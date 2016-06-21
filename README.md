@@ -166,4 +166,8 @@ be able to use it.
 (Read-only) Web site in which the application resides.<br />
 To change sites, remove and re-create application.
 
+## Development
 
+We're currently working on this module. If you run into an issue with this module, or if you would like to request a feature, please [file a ticket](https://tickets.puppetlabs.com/browse/MODULES/).
+
+If you would like to contribute to this module, please follow our [contributing guidelines](https://docs.puppet.com/forge/contributing.html#submitting-changes).
